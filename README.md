@@ -13,4 +13,6 @@ Your solution must:
 - Fill the fields related to the address after fetch the zip code data from the service above
 - Catch the errors when the service returns an error code
 
+Note: the poligons are just available for Mexico City
+
 Feel free to add comments explaining any decisions you've made that are note worthy in the code, alternatively you can add a README file with more details if you think it will help explain your solution design decisions.
